@@ -1,1 +1,0 @@
-# RestJersey_03_javaBased_extendsResourceConfig
